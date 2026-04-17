@@ -178,10 +178,3 @@ If you're looking for a **backend engineer or full stack developer**, feel free 
 
 🔗 LinkedIn: https://www.linkedin.com/in/ahzam-salik-716330207  
 📧 Email: ancamsa786@gmail.com  
-
-## 🏆 Achievements:
-
-![APIs](https://img.shields.io/badge/API-Integrations-success)
-![Performance](https://img.shields.io/badge/Performance-Optimized-blue)
-![Security](https://img.shields.io/badge/Secure-Systems-red)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
