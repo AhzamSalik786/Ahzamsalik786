@@ -1,131 +1,180 @@
-# Hi 👋 I'm Mohammad Ahzam Salik
+# 👋 Hi, I'm Mohammad Ahzam Salik
 
-💻 Software Engineer | Full Stack Developer  
+💻 **Software Engineer | Full Stack Developer**  
 ⚡ Backend Specialist (Node.js & NestJS)  
-🌍 Karachi, Pakistan  
+📍 Karachi, Pakistan  
 
 📧 Email: ancamsa786@gmail.com  
 📞 Phone: +92 2133840788  
-🔗 LinkedIn: https://www.linkedin.com/in/ahzam-salik-716330207  
+🔗 LinkedIn: [Ahzam Salik](https://www.linkedin.com/in/ahzam-salik-716330207)
 
 ---
 
-# 🚀 Summary
+# 🚀 About Me
 
-Enthusiastic and detail-oriented Full Stack Developer with **3.5+ years of experience** in designing and developing scalable web applications.
+Passionate **Full Stack Developer (4.5+ years experience)** specializing in building scalable backend systems, APIs, and distributed architectures.
 
-Experienced in building backend systems using **Node.js, NestJS, PostgreSQL, and MongoDB**, and integrating complex **third-party services such as payment gateways, authentication systems, email services, and real-time communication tools**.
-
-Strong passion for learning new technologies and building high-quality software products that scale.
+I focus on:
+- Clean Architecture 🧠  
+- Scalable Backend Systems ⚙️  
+- Microservices & Event-Driven Systems 🔄  
+- Third-party API Integrations 🔌  
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend
-- Node.js
-- NestJS
-- REST APIs
-- GraphQL
-- Microservices Architecture
+## 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
+---
 
-### Frontend
-- React.js
-- HTML
-- CSS
-- Bootstrap
+## ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql)
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
-### Tools & Technologies
-- Docker
-- AWS
-- Swagger
-- Socket.io
-- Git
-- CI/CD
+---
+
+## 🔄 Microservices & Messaging
+- gRPC  
+- MQTT  
+- TCP  
+- RabbitMQ  
+- Event Bus  
+- Pub/Sub Architecture  
+
+---
+
+## 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-darkblue?logo=amazon-aws)
+
+---
+
+## 🔐 Auth & Security
+- JWT  
+- OAuth 2.0  
+- Refresh Tokens  
+- Custom Authentication Systems  
+
+---
+
+## 🧩 ORMs / ODMs
+- TypeORM  
+- Sequelize  
+- Prisma  
+- Mongoose  
+
+---
+
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery)
+
+---
+
+## ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![GCP](https://img.shields.io/badge/GCP-blue?logo=google-cloud)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
+
+---
+
+## 🤖 AI / ML Integrations
+- OpenAI API  
+- Google Gemini  
+- Anthropic API  
+- Codex  
+- AI-powered backend systems  
+
+---
+
+## 🔌 Third-Party Integrations
+- Stripe 💳  
+- SendGrid 📧  
+- Google Maps 🗺  
+- Zoom 📹  
+- Google Meet 🎥  
+- Social Logins (Google, Facebook, Apple)  
+
+---
+
+## 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)
 
 ---
 
 # 💼 Experience
 
-## Backend Developer (Probation)
-**De Law Tech** – Karachi  
+## 🏢 De Law Tech (Backend Developer - Probation)
 📅 06/2025 – Present  
-
-- Contributed to backend services using **Node.js, NestJS, and MongoDB**
-- Assisted in API development, debugging, and third-party integrations
-- Collaborated with the development team to ensure smooth feature delivery
+- NestJS + MongoDB backend development  
+- REST API development & testing  
+- Third-party integrations  
 
 ---
 
-## Full Stack Developer  
-**Property Wallet**  
+## 🏢 Property Wallet (Full Stack Developer)
 📅 2022 – 2023  
-
-- Designed and implemented scalable applications using **Node.js, PostgreSQL, and Prisma**
-- Developed **RESTful and GraphQL APIs**
-- Implemented **OAuth 2.0 secure authentication**
-- Reduced unauthorized access by **40%**
-- Improved system performance and reduced server costs
-- Integrated multiple third-party services including:
-  - Stripe (Payments)
-  - SendGrid (Email automation)
-  - Zoom / Google Meet / Teams
-  - Social login (Google, Facebook, Apple)
-- Collaborated with designers and product managers to deliver high-quality features
+- Scalable backend architecture (Node.js + PostgreSQL)  
+- REST + GraphQL APIs  
+- OAuth2 authentication  
+- Stripe + Zoom + Google Meet integrations  
 
 ---
 
-## Full Stack Developer  
-**Al-Tafseer Solution**  
+## 🏢 Al-Tafseer Solution (Full Stack Developer)
 📅 2021 – 2022  
-
-- Developed frontend using **React.js, CSS, Bootstrap**
-- Built backend services using **NestJS**
-- Integrated payment gateways and Google Maps
-- Developed several applications including:
-  - Food Rating App
-  - Book Rental Website
-  - OLX Clone using React + MongoDB
+- React.js frontend development  
+- NestJS backend APIs  
+- Payment gateway & Google Maps integration  
 
 ---
 
 # 🎓 Education
 
-**BSCS – Bachelor of Computer Science**  
-Indus University  
+🎓 **BS Computer Science**  
+Indus University, Karachi  
 📅 2017 – 2021  
-Karachi, Pakistan
 
 ---
 
-# 🏆 Key Achievements
+# 🏆 Highlights
 
-✔ Successfully integrated multiple third-party APIs and payment gateways  
-✔ Led development features and collaborated across teams  
-✔ Improved backend performance and system scalability  
-
----
-
-# 📂 Projects
-
-### Dental Aligner
-Dental web application built using **NestJS backend architecture**
-
-### Property Wallet
-Mobile application for property management using REST APIs and third-party integrations.
-
-### Khyber Golf
-Golf community booking platform with backend APIs and frontend integration.
+✔ Microservices architecture experience  
+✔ Event-driven system design  
+✔ Secure authentication systems  
+✔ High-performance backend APIs  
+✔ Cloud & DevOps exposure  
 
 ---
 
-# 🌐 Languages
+# 🌍 Languages
 
-- English
-- Urdu
+- English 🇬🇧  
+- Urdu 🇵🇰  
+
+---
+
+# 📫 Let's Connect
+
+If you're looking for a **backend engineer or full stack developer**, feel free to connect:
+
+🔗 LinkedIn: https://www.linkedin.com/in/ahzam-salik-716330207  
+📧 Email: ancamsa786@gmail.com  
