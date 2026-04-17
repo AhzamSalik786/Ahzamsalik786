@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammad Ahzam Salik
 
-<!--
-**AhzamSalik786/Ahzamsalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Backend: NestJS, Node.js, TypeScript  
+🗄 Database: PostgreSQL, MongoDB  
+☁️ Cloud: AWS  
+⚡ Experience: 3.5+ years  
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+## Skills
+- NestJS
+- Node.js
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- AWS
