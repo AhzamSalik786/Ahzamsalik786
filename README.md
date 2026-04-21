@@ -153,7 +153,7 @@ I focus on:
 # 🎓 Education
 
 🎓 **BS Computer Science**  
-Indus University, Karachi  
+Ilma University, Karachi  
 📅 2017 – 2021  
 
 ---
