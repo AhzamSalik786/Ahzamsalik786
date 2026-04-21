@@ -4,7 +4,7 @@
 ⚡ Backend Specialist (Node.js & NestJS)  
 📍 Karachi, Pakistan  
 
-📧 Email: ancamsa786@gmail.com  
+📧 Email: ahzamsalik786@gmail.com  
 📞 Phone: +92 2133840788  
 🔗 LinkedIn: [Ahzam Salik](https://www.linkedin.com/in/ahzam-salik-716330207)
 
