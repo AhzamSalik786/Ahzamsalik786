@@ -8,6 +8,9 @@
 📞 Phone: +92 2133840788  
 🔗 LinkedIn: [Ahzam Salik](https://www.linkedin.com/in/ahzam-salik-716330207)
 
+🔗 **LinkedIn Badge:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahzam%20Salik-blue?logo=linkedin)](https://www.linkedin.com/in/ahzam-salik-716330207)
+
 ---
 
 # 🚀 About Me
@@ -174,7 +177,5 @@ Indus University, Karachi
 
 # 📫 Let's Connect
 
-If you're looking for a **backend engineer or full stack developer**, feel free to connect:
-
-🔗 LinkedIn: https://www.linkedin.com/in/ahzam-salik-716330207  
+🔗 LinkedIn: https://www.linkedin.com/in/ahzam-salik  
 📧 Email: ancamsa786@gmail.com  
