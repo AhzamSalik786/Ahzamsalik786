@@ -9,7 +9,7 @@
 🔗 LinkedIn: [Ahzam Salik](https://www.linkedin.com/in/ahzam-salik-716330207)
 
 🔗 **LinkedIn Badge:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahzam%20Salik-blue?logo=linkedin)](https://www.linkedin.com/in/ahzam-salik-716330207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahzam%20Salik-blue?logo=linkedin)](https://www.linkedin.com/in/ahzam-salik)
 
 ---
 
